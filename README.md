@@ -1,4 +1,4 @@
-# Diamante Auto Bot 💎
+# Diamante Auto Bot
 
 A simple Node.js automation tool for the Diamante Blockchain Airdrop campaign. This script allows you to manage multiple existing wallets, claim faucets, and automate transactions to boost on-chain activity efficiently.
 
